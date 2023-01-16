@@ -8,19 +8,19 @@
 ## Tech Stacks
 ### FE
 - CRA(@5.0.1) based
-  - not ejected, using craco ^7
+  - not ejected, using craco `^7`
     - no modification from webpack, babel settings from CRA, ...yet!
-- Typescript ^4.9
-- React ^18
-- react-redux v8 + redux-thunk ^2
+- Typescript `^4.9`
+- React `^18`
+- react-redux `v8` + redux-thunk `^2`
   - planning on transition to redux-toolkit
-- yarn ^3
+- yarn `^3`
 
 ### BE
-- Typescript ^4.9
-- Node.js ^16
-- Express.js ^4
-- serverless ^3
+- Typescript `^4.9`
+- Node.js `^16`
+- Express.js `^4`
+- serverless `^3`
 - MySQL(MariaDB)
 
 - will be in use
