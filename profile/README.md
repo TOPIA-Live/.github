@@ -12,7 +12,7 @@
     - no modification from webpack, babel settings from CRA, ...yet!
 - Typescript `^4.9`
 - React `^18`
-- react-redux `v8` + redux-thunk `^2`
+- react-redux `^8` + redux-thunk `^2`
   - planning on transition to redux-toolkit
 - yarn `^3`
 
