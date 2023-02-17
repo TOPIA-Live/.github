@@ -1,4 +1,4 @@
-# TOPIA Live Class
+# TOPIA Live
 
 한국 최고의 어학원을 온라인에서 만나보세요.
 
@@ -13,15 +13,14 @@
 - Typescript `^4.9`
 - React `^18`
 - react-redux `^8` + redux-thunk `^2`
-  - planning on transition to redux-toolkit
 - yarn `^3`
 
 ### BE
 - Typescript `^4.9`
-- Node.js `^16`
+- Node.js `^18`
 - Express.js `^4`
 - serverless `^3`
-- MySQL(MariaDB)
+- MySQL(MariaDB) `^10.4`
 
 - will be in use
   - MongoDB
@@ -44,4 +43,4 @@
     - SQS
 
 ## Contact Info
-jy.kim@topialiveclass.com
+jy.kim@topialive.co.kr
