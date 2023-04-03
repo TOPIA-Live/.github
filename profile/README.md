@@ -18,7 +18,8 @@
 ### BE
 - Typescript `^4.9`
 - Node.js `^18`
-- Express.js `^4`
+- Express.js `^4` (주력 서비스)
+  - Koa.js (일부 서비스)
 - serverless `^3`
 - MySQL(MariaDB) `^10.4`
 
