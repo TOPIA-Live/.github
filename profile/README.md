@@ -1,9 +1,9 @@
 # TOPIA Live
 
-한국 최고의 어학원을 온라인에서 만나보세요.
+초등전문 프리미엄 영어교육 No.1
 
 ## Business WebSite
-- working on MVP (will be released in between April 24, 2023 - May 01, 2023)
+https://topialive.co.kr
 
 ## Tech Stacks
 ### FE
