@@ -12,7 +12,7 @@ https://topialive.co.kr
     - no modification from webpack, babel settings from CRA, ...yet!
 - Typescript `^4.9`
 - React `^18`
-- react-redux `^8` + redux-thunk `^2`
+- react-redux `^8`
 - yarn `^3`
 
 ### BE
