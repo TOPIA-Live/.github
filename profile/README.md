@@ -30,11 +30,11 @@ https://topialive.co.kr
 
 ### Infra
 - AWS
+  - Route 53
   - Cloudfront
   - API Gateway
   - Lambda
   - RDS
-  - EC2
   - S3
   - CodeBuild
 
