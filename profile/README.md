@@ -22,11 +22,9 @@ https://topialive.co.kr
   - Koa.js (일부 서비스)
 - serverless `^3`
 - MySQL(MariaDB) `^10.4`
-
-- will be in use
-  - MongoDB
-  - Redis
-  - MQ(AWS SQS)
+- MongoDB `@4.0.0`
+- Redis `^6.2` with ioredis `^5.3`
+- MQ(AWS SQS)
 
 ### Infra
 - AWS
@@ -35,13 +33,11 @@ https://topialive.co.kr
   - API Gateway
   - Lambda
   - RDS
+  - Amazon DocumentDB(MongoDB)
+  - ElastiCache(Redis)
   - S3
   - CodeBuild
-
-  - will be in use
-    - Amazon DocumentDB(MongoDB)
-    - ElastiCache(Redis)
-    - SQS
+  - SQS
 
 ## Contact Info
 jy.kim@topialive.co.kr
