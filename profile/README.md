@@ -19,7 +19,7 @@ https://topialive.co.kr
 - Typescript `^4.9`
 - Node.js `^18`
 - Express.js `^4` (주력 서비스)
-  - Koa.js (일부 서비스)
+  - Koa.js `^2` (일부 서비스, 신규 서비스는 koa 로 작성)  
 - serverless `^3`
 - MySQL(MariaDB) `^10.4`
 - MongoDB `@4.0.0`
