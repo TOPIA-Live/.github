@@ -45,6 +45,6 @@
   - SQS
 
 ## Contact Info
-jy.kim@topialive.co.kr
+dev@topialive.co.kr
 
 
